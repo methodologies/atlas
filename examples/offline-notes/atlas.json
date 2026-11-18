@@ -1,0 +1,9 @@
+{
+  "format": "atlas/1.2",
+  "id": "offline-notes",
+  "title": "Offline notes: a fictional example",
+  "trees": [
+    "trees/product",
+    "trees/architecture"
+  ]
+}

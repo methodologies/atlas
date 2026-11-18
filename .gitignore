@@ -1,0 +1,8 @@
+node_modules/
+.pnpm-store/
+tmp/
+dist/
+coverage/
+.DS_Store
+*.tgz
+.atlas-candidate/
